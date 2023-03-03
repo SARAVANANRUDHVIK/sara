@@ -1,0 +1,2 @@
+module Abstruct {
+}
